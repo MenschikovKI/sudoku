@@ -1,0 +1,26 @@
+https://create-react-app.dev/docs/adding-typescript/
+https://create-react-app.dev/docs/adding-a-sass-stylesheet/
+
+Игра с сайта React
+https://ru.reactjs.org/tutorial/tutorial.html#completing-the-game
+
+Алгоритм в ЛОБ
+https://habr.com/ru/sandbox/74604/
+
+x x
+x x
+
+x x x 0 0 0 i * j + j
+x x x 1 1 1
+x x x 2 2 2
+
+x x x x 0
+x x x x 0
+x x x x 0
+x x x x 0
+
+x x x x x
+x x x x x
+x x x x x
+x x x x x
+x x x x x
